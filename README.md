@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# 芝士雪豹
 
 _🐴 测马小游戏 🐴_
 
